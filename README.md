@@ -7,3 +7,4 @@ Meu nome é Pietro
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvido
 
 ### Você entrar em contato comigo 📫
+pietro.fontes@escola.pr.gov.br
